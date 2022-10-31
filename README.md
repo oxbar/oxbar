@@ -19,6 +19,9 @@ I'm an educational professional expanding my skills in data analytics and python
 - [IBM Data Analyst Professional Certificate](https://github.com/oxbar/course-online-general/tree/main/ibm-data-analyst-professional-certificate)
 - [Data Science Fundamentals with Python and SQL Specialization](https://github.com/oxbar/course-online-general/tree/main/data-science-fundamentals-with-python-and-sql-specialization)
 
+## Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!-- 
 
@@ -27,21 +30,8 @@ TO BE DONE ONE DAY
 Intro (A banner one day, visitors, follow)
 Courses (Eventually "What I'm Doing" and "What I've Done"
 ## Projects
-## Stats
+Stats
 ## About Me
 ## Contact Me
-
-**oxbar/oxbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 -->

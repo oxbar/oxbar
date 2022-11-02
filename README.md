@@ -19,6 +19,18 @@ I'm an educational professional expanding my skills in data analytics and python
 - [IBM Data Analyst Professional Certificate](https://github.com/oxbar/course-ibm-data-analyst)
 - [Data Science Fundamentals with Python and SQL Specialization](https://github.com/oxbar/course-data-science-fundamentals-python-sql)
 
+## Courses I'm Considering
+
+- [Dataquest - Career Path - Business Analyst](https://www.dataquest.io/path/business-analyst/)
+- [Dataquest - Career Path - Data Analyst in Python](https://www.dataquest.io/path/data-analyst/)
+
+- [Dataquest - Skill Path - Analyzing Data with Microsoft Power BI](https://www.dataquest.io/path/analyzing-data-with-microsoft-power-bi-skill-path/)
+- [Dataquest - Skill Path - Data Analysis and Visualization with Python](https://www.dataquest.io/path/data-analysis-and-visualization-with-python/)
+- [Dataquest - Skill Path - Data Cleaning with Python](https://www.dataquest.io/path/data-cleaning-python/)
+- [Dataquest - Skill Path - Introduction to Data Analysis with Excel](https://www.dataquest.io/path/introduction-to-data-analysis-with-excel/)
+- [Dataquest - Skill Path - Python Basics for Data Analysis](https://www.dataquest.io/path/python-basics-for-data-analysis/)
+- [Dataquest - Skill Path - SQL Fundamentals](https://www.dataquest.io/path/sql-skills/)
+
 ## Resources and Setup
 
 [Here](https://github.com/oxbar/course-resources) you will find information on how I set up my workspace and links to various resources, sites, social posts and guides I've found useful. Might be helpful if you're starting out, like me!

@@ -14,12 +14,14 @@ I'm an educational professional expanding my skills in data analytics and python
 
 [Here](https://github.com/oxbar?tab=repositories) you will find repositories of my online courses:
 
-- [Google Data Analytics Professional Certificate](https://github.com/oxbar/course-google-data-analytics)
-- [Google IT Automation with Python Professional Certificate](https://github.com/oxbar/course-google-it-automation)
-- [IBM Data Analyst Professional Certificate](https://github.com/oxbar/course-ibm-data-analyst)
-- [Data Science Fundamentals with Python and SQL Specialization](https://github.com/oxbar/course-data-science-fundamentals-python-sql)
+- [Coursera - Google Data Analytics Professional Certificate](https://github.com/oxbar/course-google-data-analytics)
+- [Coursera - Google IT Automation with Python Professional Certificate](https://github.com/oxbar/course-google-it-automation)
+- [Coursera - IBM Data Analyst Professional Certificate](https://github.com/oxbar/course-ibm-data-analyst)
+- [Coursera - Data Science Fundamentals with Python and SQL Specialization](https://github.com/oxbar/course-data-science-fundamentals-python-sql)
 
 ## Courses I'm Considering
+
+- [Coursera - Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
 
 - [Dataquest - Career Path - Business Analyst](https://www.dataquest.io/path/business-analyst/)
 - [Dataquest - Career Path - Data Analyst in Python](https://www.dataquest.io/path/data-analyst/)

@@ -64,7 +64,7 @@ Courses (Eventually "What I'm Doing" and "What I've Done"
 Resources and Setup
 ## Projects
 ## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxbbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ## About Me
 ## Contact Me
 

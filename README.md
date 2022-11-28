@@ -76,7 +76,10 @@ I'm an educational professional expanding my skills in data analytics, python, S
 ## Stats
 [Back to the Top](#table-of-contents)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxbbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![](https://github-readme-stats.vercel.app/api?username=oxbbar&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oxbbar&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxbbar&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## Courses I'm Considering
 [Back to the Top](#table-of-contents)

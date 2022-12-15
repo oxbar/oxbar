@@ -19,11 +19,12 @@ I'm an educational professional expanding my skills in data analytics, python, S
 - Python
   - pandas, NumPy, API Scraping
 - SQL
+  - SQLite, DB Browser for SQL, Python integration, Jupyter Notebooks integration, PostgreSQL
 - R
 - Tableau
 - PowerBI
 - Software
-  - Conda, Git, RStudio, Jupyter Notebooks, Visual Studio Code
+  - Conda, Git, R, RStudio, Jupyter Notebooks, PyCharm, DB Browser for SQLite, Visual Studio Code
 
 ## Courses and Education
 [Back to the Top](#table-of-contents)
@@ -95,18 +96,6 @@ I'm an educational professional expanding my skills in data analytics, python, S
 - [Coursera - Data Science Fundamentals with Python and SQL Specialization](https://github.com/oxbar/course-data-science-fundamentals-python-sql)
 
 - [Coursera - Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
-
-- [Dataquest - Skill Path - Analyzing Data with Microsoft Power BI](https://www.dataquest.io/path/analyzing-data-with-microsoft-power-bi-skill-path/)
-
-- [Dataquest - Skill Path - Data Analysis and Visualization with Python](https://www.dataquest.io/path/data-analysis-and-visualization-with-python/)
-
-- [Dataquest - Skill Path - Data Cleaning with Python](https://www.dataquest.io/path/data-cleaning-python/)
-
-- [Dataquest - Skill Path - Introduction to Data Analysis with Excel](https://www.dataquest.io/path/introduction-to-data-analysis-with-excel/)
-
-- [Dataquest - Skill Path - Python Basics for Data Analysis](https://www.dataquest.io/path/python-basics-for-data-analysis/)
-
-- [Dataquest - Skill Path - SQL Fundamentals](https://www.dataquest.io/path/sql-skills/)
 
 <!-- 
 

@@ -58,6 +58,10 @@ I'm an educational professional expanding my skills in data analytics, python, S
   - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
   - Python; pandas; Data cleaning and analysis
 
+- [Analysing Customer Sales and Product Data](https://github.com/oxbbar/course-business-analyst-with-power-bi/blob/main/part_2/analysing-customer-sales-and-product-data/analysing-customer-sales-and-product-data.ipynb)
+  - Analysed sales data, stock levels, product performance to drive customer retention, marketing strategies and inventory.
+  - SQL; SQLite; DB Browser for SQL; Data analysis; Python
+
 ### Personal Projects
 
 - [Basic First Budget](https://github.com/oxbbar/excel-first-basic-budget)

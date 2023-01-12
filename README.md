@@ -5,8 +5,8 @@ I'm an educational professional expanding my skills in data analytics, python, S
 ## Table of Contents
 
 - [Skills](#skills)
-- [Courses and Education](courses-and-education)
-- [Projects](projects)
+- [Courses and Education](#courses-and-education)
+- [Projects](#projects)
   - [Large Case Studies](#large-case-studies)
   - [Small Case Studies](#small-case-studies)
   - [Personal Projects](#personal-projects)
@@ -22,9 +22,10 @@ I'm an educational professional expanding my skills in data analytics, python, S
   - SQLite, DB Browser for SQL, Python integration, Jupyter Notebooks integration, PostgreSQL
 - R
 - Tableau
-- PowerBI
+- Power BI
+  - Power BI Desktop
 - Software
-  - Conda, Git, R, RStudio, Jupyter Notebooks, PyCharm, DB Browser for SQLite, Visual Studio Code
+  - Conda, Git, R, RStudio, Jupyter Notebooks, PyCharm, DB Browser for SQLite, Visual Studio Code, Power BI Desktop
 
 ## Courses and Education
 [Back to the Top](#table-of-contents)

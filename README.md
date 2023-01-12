@@ -85,7 +85,8 @@ I'm an educational professional expanding my skills in data analytics, python, S
 ![](https://github-readme-stats.vercel.app/api?username=oxbbar&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oxbbar&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxbbar&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=oxbbar&theme=synthwave&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxbbar&layout=compact)
 
 ## Courses I'm Considering
 [Back to the Top](#table-of-contents)

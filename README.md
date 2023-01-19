@@ -52,11 +52,11 @@ I'm an educational professional expanding my skills in data analytics, python, S
 
 ### Small Case Studies
 
-- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/appstore)
+- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/appstore/analyzing-mobile-app-data.ipynb)
   - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
   - Python; pandas; Data cleaning and analysis
 
-- [Analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-data-analyst-in-python/tree/main/part_1/hackernews)
+- [Analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/hackernews/analysing-hacker-news-posts.ipynb)
   - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
   - Python; pandas; Data cleaning and analysis
 
@@ -67,7 +67,10 @@ I'm an educational professional expanding my skills in data analytics, python, S
 - [Modelling Store Sales Data in Power BI](https://github.com/oxbbar/course-business-analyst-with-power-bi/tree/main/part_3/modelling-store-sales-data-in-powerbi)
   - Visualised sales data using Power BI to determine the biggest global markets and profit summaries for a range of office supplies.
   - Data visualisation; Power BI; DAX Functions
-
+  
+- [Visualising Life Expectancy and GDP Variation Over Time](https://github.com/oxbbar/course-business-analyst-with-power-bi/blob/main/part_3/visualisation-of-life-expectancy-and-gdp-variation-over-time/)
+    - Power BI, Data Visualisation
+    
 ### Personal Projects
 
 - [Basic First Budget](https://github.com/oxbbar/excel-first-basic-budget)

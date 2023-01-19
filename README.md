@@ -69,6 +69,7 @@ I'm an educational professional expanding my skills in data analytics, python, S
   - Data visualisation; Power BI; DAX Functions
   
 - [Visualising Life Expectancy and GDP Variation Over Time](https://github.com/oxbbar/course-business-analyst-with-power-bi/blob/main/part_3/visualisation-of-life-expectancy-and-gdp-variation-over-time/)
+    - Visualised life expectancy, population and GDP per capita between regions, countries and income classes from 1800 to 2010 to determine trends.
     - Power BI, Data Visualisation
     
 ### Personal Projects

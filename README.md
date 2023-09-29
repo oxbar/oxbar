@@ -38,6 +38,9 @@ I'm an educational professional expanding my skills in data analytics, python, S
 - [Dataquest - Career Path - Data Analyst in Python](https://github.com/oxbbar/course-data-analyst-in-python)
   - Python; pandas; NumPy; SQL; API and web scraping; Data visualisation; Statistics; Git
 
+- [Dataquest - Career Path - Data Scientist](https://github.com/oxbbar/course-data-scientist)
+    - Python; pandas; NumPy; SQL; API and web scraping; Data visualisation; Statistics; Git
+
 - [Coursera - Google Data Analytics Professional Certificate](https://github.com/oxbar/course-google-data-analytics)
   - MS Excel; Google Sheets; Data cleaning and analysis; SQL; Sampling; Tableau; R Programming
 

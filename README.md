@@ -25,7 +25,7 @@ I'm an educational professional expanding my skills in data analytics, python, S
 - Power BI
   - Power BI Desktop
 - Software
-  - Conda, Git, R, RStudio, Jupyter Notebooks, PyCharm, DB Browser for SQLite, Visual Studio Code, Power BI Desktop
+  - Conda, Git, R, RStudio, Jupyter Notebooks, PyCharm, DB Browser for SQLite, Visual Studio Code
 
 ## Courses and Education
 [Back to the Top](#table-of-contents)
@@ -55,13 +55,13 @@ I'm an educational professional expanding my skills in data analytics, python, S
 
 ### Small Case Studies
 
-- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/appstore/analyzing-mobile-app-data.ipynb)
-  - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
-  - Python; pandas; Data cleaning and analysis
+- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-projects/blob/main/analysing-mobile-app-data/analysing-mobile-app-data.ipynb)
+    - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
+    - Python; pandas; Data cleaning and analysis
 
-- [Analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-data-analyst-in-python/blob/main/part_1/hackernews/analysing-hacker-news-posts.ipynb)
-  - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
-  - Python; pandas; Data cleaning and analysis
+- [Exploring and analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-projects/blob/main/exploring-hacker-news-posts/exploring-hacker-news-posts.ipynb)
+    - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
+    - Python; pandas; Data cleaning and analysis
 
 - [Analysing Customer Sales and Product Data](https://github.com/oxbbar/course-business-analyst-with-power-bi/blob/main/part_2/analysing-customer-sales-and-product-data/analysing-customer-sales-and-product-data.ipynb)
   - Analysed sales data, stock levels, product performance to drive customer retention, marketing strategies and inventory.
